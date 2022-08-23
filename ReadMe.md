@@ -4,25 +4,18 @@ The repository contains all the source code for Weakly supervised semantic segme
 
 The directory structure of the repository is as follws:
 
-|
-|---training:
-|	|
-|	|--- classification_transformer: contains all the training notebooks for the classification
-|	|				 				 (transformer) networks.
-|	|
-|	|--- segmentation: contains all the training notebooks for the segmentation networks.
-|
-|---image_preprocessing_augmentation: contains notebooks for image augmentation (cutmix and padding).
-|
-|---cam_visualization: contains notebooks for visualizing CAM from various networks using
-|		       		   various methods discussed in the paper.
-|
-|---demo: contains all the notebooks to demonstrate the working of various CAM generation methods for
-|	      transformer based networks, CAM refinement, pseudo-label generation and segmentation
-|	  	  model performance.
-|
-|---requirements: list of libraries required for the project
+WSSS4LUAD
++ ┣ cam_visualization
++ ┣ demo
++ ┣ image_preprocessing_augmentation
++ ┣ training
++ ┃ ┗ classification_transformer
++ ┃ ┗ segmentation
++ ┣ .gitignore
++ ┣ ReadMe.md
++ ┣ ReadMe.txt
++ ┗ requirements.txt
 
-To run the analysis, use the notebooks from the demo directory. The best weights for best performing CAM generating models as well as segmentation model. Note that to run the Demo GETAM for WSSS4LUAD viz and Demo Transformer Explainability notebooks, CUDA is required.
+To run the analysis, use the notebooks from the demo directory. The best weights for best performing CAM generating models as well as segmentation model are stored in model directory and available on google colab. Note that to run the Demo GETAM for WSSS4LUAD viz and Demo Transformer Explainability notebooks, CUDA is required.
 
 A set of images from the dataset to run the analysis will also be provided.
