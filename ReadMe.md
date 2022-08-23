@@ -4,6 +4,7 @@ The repository contains all the source code for Weakly supervised semantic segme
 
 The directory structure of the repository is as follws:
 
+'''
 |
 |---training:
 |	|
@@ -22,6 +23,7 @@ The directory structure of the repository is as follws:
 |	  	  model performance.
 |
 |---requirements: list of libraries required for the project
+'''
 
 To run the analysis, use the notebooks from the demo directory. The best weights for best performing CAM generating models as well as segmentation model. Note that to run the Demo GETAM for WSSS4LUAD viz and Demo Transformer Explainability notebooks, CUDA is required.
 
