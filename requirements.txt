@@ -1,0 +1,11 @@
+timm
+tqdm
+torch
+numpy
+pandas
+einops
+sklearn
+pydensecrf
+torchvision
+pytorch-grad-cam
+segmentation_models_pytorch

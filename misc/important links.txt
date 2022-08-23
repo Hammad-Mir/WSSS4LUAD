@@ -1,0 +1,14 @@
+https://www.google.com/search?q=timm+vision+transformer+patch+embedding&oq=timm+vision+transformer+patch+embedding&aqs=chrome..69i57j33i160l3.27478j0j4&sourceid=chrome&ie=UTF-8
+https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py
+https://viso.ai/deep-learning/vision-transformer-vit/#:~:text=The%20visual%20transformer%20divides%20an,to%20computational%20efficiency%20and%20accuracy.
+https://jacobgil.github.io/deeplearning/vision-transformer-explainability
+https://github.com/jacobgil/vit-explain
+https://www.kaggle.com/code/piantic/vision-transformer-vit-visualize-attention-map/notebook
+https://github.com/jeonsworld/ViT-pytorch/blob/main/visualize_attention_map.ipynb
+https://github.com/hila-chefer/Transformer-Explainability
+https://github.com/hila-chefer/Transformer-MM-Explainability
+https://github.com/hila-chefer/Transformer-MM-Explainability/blob/main/DETR.ipynb
+https://colab.research.google.com/github/hila-chefer/Transformer-Explainability/blob/main/Transformer_explainability.ipynb#scrollTo=UtHosD9lCgAA
+https://github.com/facebookresearch/deit/blob/main/main.py
+https://colab.research.google.com/github/facebookresearch/deit/blob/colab/notebooks/deit_inference.ipynb#scrollTo=lRc5wsITxiOB
+https://pytorch.org/docs/stable/hub.html
