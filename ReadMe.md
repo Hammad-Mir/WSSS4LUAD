@@ -45,7 +45,7 @@ The weights for the best performing models can be downloaded from the google goo
 | model_vit_base_patch16_224_1.pth          | [GDrive](https://drive.google.com/file/d/1dpdFgqHvJB4XN-fkV-91-twCxJtca_3l/view?usp=sharing)  |
 | cutmix_hila_vit_base_patch16_224_01.pth   | [GDrive](https://drive.google.com/file/d/1-0K0fa2ldf0VKSa3UwdTEiWV0LH3TaHN/view?usp=sharing)  |
 | border_cutmix_GETAM.pth                   | [GDrive](https://drive.google.com/file/d/1In2msf66Q7Ea4lEW638pYzXWwr5nr7X7/view?usp=sharing)  |
-| deeplabv3plus_dJ_par_resnet50_01.pth      | [GDrive](https://drive.google.com/file/d/1cQDRNmfM7_RmIIjQjOIhjRsBQySnT171/view?usp=sharing)  |
+| deeplabv3plus_dJ_par_resnet50_01.pth      | [GDrive](https://drive.google.com/file/d/1AjiAskznsVyiiu8o9RTJE8OFe09PS8PZ/view?usp=sharing)  |
 
 </center>
 
